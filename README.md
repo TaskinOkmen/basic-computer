@@ -14,7 +14,7 @@ This project is about implementing and simulating a basic 16-bit computer using 
  - ALU Flag registers: Zero/Carry/Negative/Overflow
  - General purpose registers
 
-## Acknowledgements
+## What I learned
 
  - General knowledge about computer organization
  - Working with registers, ALU's and hardwired control unit
